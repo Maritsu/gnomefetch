@@ -1,6 +1,4 @@
-<p style="max-width: 50%; float: right;">
-![](gnome.png)
-</p>
+<img align="right" src="gnome.png" width=30%>
 
 # gnomefetch
 A joke fetch program that I made because I was *very* bored.
